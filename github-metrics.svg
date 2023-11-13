@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ascii-boxes/boxes</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command line ASCII boxes unlimited!</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rsteube/carapace-bin</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">multi-shell multi-command argument completer</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>knqyf263/pet</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple command-line snippet manager, written in Go.</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cespare/reflex</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run a command when files change</div>
@@ -433,7 +433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vinta/awesome-python</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome Python frameworks, libraries, software and resources</div>
@@ -483,7 +483,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2023, 08:12:31 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2023, 09:10:38 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
