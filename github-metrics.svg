@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>safedep/vet</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tool to achieve policy driven vetting of open source dependencies</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zhaofengli/attic</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Multi-tenant Nix Binary Cache</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/vscode-nix-ide</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Nix language support for VSCode editor [maintainer: @jnoortheen]</div>
@@ -483,7 +483,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2023, 16:18:55 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Nov 2023, 17:13:30 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
