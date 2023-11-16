@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elitak/nixos-infect</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/pyproject.nix</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]</div>
@@ -477,7 +477,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2023, 04:46:59 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Nov 2023, 05:53:09 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
