@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elitak/nixos-infect</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)</div>
@@ -477,7 +477,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2023, 21:08:59 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2023, 22:12:00 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
