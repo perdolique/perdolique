@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>d3/d3</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -279,7 +279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Acly/krita-ai-diffusion</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.</div>
@@ -488,7 +488,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2023, 19:10:36 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Nov 2023, 20:13:02 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
