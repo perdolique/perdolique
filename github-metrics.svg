@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maralorn/nix-output-monitor</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>darkreader/darkreader</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dark Reader Chrome and Firefox extension</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anticensority/runet-censorship-bypass</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chromium extension for bypassing censorship in Russia</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gorhill/uBlock</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</div>
@@ -433,7 +433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mitmproxy/mitmproxy</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.</div>
@@ -483,7 +483,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2023, 20:11:36 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2023, 21:08:59 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
