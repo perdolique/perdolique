@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lutris/lutris</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lutris desktop client in Python / PyGObject</div>
@@ -483,7 +483,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Nov 2023, 18:10:17 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2023, 19:11:32 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
