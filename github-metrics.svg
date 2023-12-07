@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lmorg/murex</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nkanaev/yarr</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">yet another rss reader</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maralorn/nix-output-monitor</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.</div>
@@ -483,7 +483,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2023, 16:19:09 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Dec 2023, 17:13:59 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
