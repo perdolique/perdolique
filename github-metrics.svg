@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WayfireWM/wayfire</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modular and extensible wayland compositor</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>labwc/labwc</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Wayland window-stacking compositor</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swaywm/sway</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">i3-compatible Wayland compositor</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>viperML/nh</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Yet another nix cli helper</div>
@@ -483,7 +483,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Dec 2023, 19:09:20 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Dec 2023, 20:11:30 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
