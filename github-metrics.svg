@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>outfoxxed/hy3</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hyprland plugin for an i3 / sway like manual tiling layout</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Duckonaut/split-monitor-workspaces</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A small Hyprland plugin to provide awesome-like workspace behavior</div>
@@ -477,7 +477,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2024, 16:16:58 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jan 2024, 17:12:10 (timezone Europe/Saratov) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
